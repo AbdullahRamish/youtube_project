@@ -850,8 +850,6 @@ elif selected == 'Delete SQL Records':
 
 elif selected == "CONNECT":
 
-    st.header(":red[Project] Explanation           [Check out](https://www.linkedin.com/posts/praveen-n-2b4004223_python-dataanalysis-sql-activity-7082589064373161985-hHRM?utm_source=share&utm_medium=member_desktop)")
-    st.header(":red[View More] Projects : [Quick](https://github.com/praveendecode)")
 
 
 hide_st_style = """
